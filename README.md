@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://preetsuthar.me)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nottpreet28/)
 
-### Glad to see you here! &nbsp
+### Glad to see you here! &nbsp;
 
 Hello! I'm Preet Suthar , a self-taught web developer aged 16 with more than five years of experience. I'm constantly learning and developing my skills in the constantly evolving world of web development.
 
