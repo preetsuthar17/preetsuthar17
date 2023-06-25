@@ -5,14 +5,14 @@
 
 ### Glad to see you here! &nbsp;
 
-Hello! I'm Preet Suthar , a self-taught web developer aged 16 with more than five years of experience. I'm constantly learning and developing my skills in the constantly evolving world of web development.
+Hello! I'm Preet Suthar, a self-taught web developer aged 16 with more than five years of experience. I'm constantly learning and developing my skills in the constantly evolving world of web development.
 
 I'm knowledgeable in a variety of technologies, including HTML, CSS, JavaScript, and others. I strive to create aesthetically pleasing and user-friendly websites since I have a keen eye for design. Together, let's create something amazing!
 
 <img align="right" alt="GIF" src="https://github.com/preetsuthar17/preetsuthar17/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - <img src="https://github.com/preetsuthar17/preetsuthar17/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
 - <img src="https://github.com/preetsuthar17/preetsuthar17/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
