@@ -15,10 +15,10 @@ I'm knowledgeable in a variety of technologies, including HTML, CSS, JavaScript,
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/preetsuthar17/preetsuthar17/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
-- <img src="https://github.com/preetsuthar17/preetsuthar17/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/preetsuthar17/preetsuthar17/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I sometimes write articles on [my blog](https://blog.preetsuthar.me);
-- <img src="https://github.com/preetsuthar17/preetsuthar17/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: preetsutharxd@gmail.com
-
+- <img src="https://github.com/preetsuthar17/preetsuthar17/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
+- <img src="https://github.com/preetsuthar17/preetsuthar17/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I sometimes write articles on [my blog](https://blog.preetsuthar.me).
+- <img src="https://github.com/preetsuthar17/preetsuthar17/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: preetsutharxd@gmail.com.
+  
 </br>
 
 📊 **This Week I Spent My Time On:**
