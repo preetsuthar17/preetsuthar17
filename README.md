@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetsuthar17&label=Profile%20views&color=0e75b6&style=flat" alt="preetsuthar17" /> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://preetsuthar.me)
+- 🔭 I’m currently working on [My Portfolio](https://preetsuthar.me)
 
-- 👨‍💻 All of my projects are available at [https://preetsuthar.me/portfolio](https://preetsuthar.me/portfolio)
+- 👨‍💻 All of my projects are available at [https://preetsuthar.me/projects](https://preetsuthar.me/projects)
 
 - 📝 I regularly write articles on [https://preetsuthar.me/posts](https://preetsuthar.me/posts)
 
