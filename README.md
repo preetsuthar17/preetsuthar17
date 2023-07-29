@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Preet</h1>
-<h3 align="center">Hello! I'm Preet Suthar, a self-taught web developer aged 16 with more than two years of experience. Passionate about Front-End web development, soon going for Full-Stack web development.</h3>
+# Hi 👋, I'm Preet
+#### Hello! I'm Preet Suthar, a self-taught web developer aged 16 with more than two years of experience. Passionate about Front-End web development, soon going for Full-Stack web development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetsuthar17&label=Profile%20views&color=0e75b6&style=flat" alt="preetsuthar17" /> </p>
 
