@@ -1,9 +1,12 @@
 # Hi 👋, I'm Preet
-#### Hello! I'm Preet Suthar, a self-taught web developer aged 16 with more than two years of experience. Passionate about Front-End web development, soon going for Full-Stack web development.
 
+<pre>
+I'm a 16-year-old self-taught web developer with more than two years of experience. 
+I'm passionate about Front-End web development, soon going for Full-Stack web development.
+</pre>
+
+  
 - 🔭 I’m currently working on [My Portfolio](https://preetsuthar.me)
-
-- 👨‍💻 All of my projects are available at [https://preetsuthar.me/projects](https://preetsuthar.me/projects)
 
 - 📝 I regularly write articles on [https://preetsuthar.me/posts](https://preetsuthar.me/posts)
 
