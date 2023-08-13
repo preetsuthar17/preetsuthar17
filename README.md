@@ -6,9 +6,6 @@ I'm passionate about Front-End web development, soon going for Full-Stack web de
 </pre>
 
   
-- 🔭 I’m currently working on [My Portfolio](https://preetsuthar.me)
+[🌐 Dev Site](https://preetsuthar.me) | [📧 Contact](mailto:preetsutharxd@gmail.com)
 
-- 📝 I regularly write articles on [https://preetsuthar.me/posts](https://preetsuthar.me/posts)
-
-- 📫 How to reach me **preetsutharxd@gmail.com**
-
+[![wakatime](https://wakatime.com/badge/user/b5b67ae1-6061-466d-982e-e7b9ec9d9369.svg)](https://wakatime.com/@b5b67ae1-6061-466d-982e-e7b9ec9d9369)
