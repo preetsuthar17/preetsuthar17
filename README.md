@@ -2,7 +2,7 @@
 
 <pre>
 I'm a 17 y/o self-taught web developer with more than two years of experience. 
-I'm passionate about Front-End web development, soon going for Full-Stack web development.
+I'm very passionate about Front-End web development and I can help you to build most websites with the most appealing design.
 </pre>
 
 <picture>
