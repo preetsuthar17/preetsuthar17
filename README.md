@@ -1,7 +1,7 @@
 # Hi 👋, I'm Preet
 
 <pre>
-I'm a 16-year-old self-taught web developer with more than two years of experience. 
+I'm a 17 y/o self-taught web developer with more than two years of experience. 
 I'm passionate about Front-End web development, soon going for Full-Stack web development.
 </pre>
 
