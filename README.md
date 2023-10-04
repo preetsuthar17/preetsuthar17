@@ -1,4 +1,4 @@
-# Hi 👋, I'm Preet
+<h1> Hi 👋, I'm Preet</h1>
 
 <pre>
 I'm a 17 y/o self-taught web developer with more than two years of experience. 
