@@ -14,5 +14,5 @@ I'm very passionate about Front-End web development and I can help you to build 
 [![wakatime](https://wakatime.com/badge/user/b5b67ae1-6061-466d-982e-e7b9ec9d9369.svg)](https://wakatime.com/@b5b67ae1-6061-466d-982e-e7b9ec9d9369)
 
 <p align="center">
-<a href="https://preetsuthar.me">website</a> － <a href="https://snailycad.org">SnailyCAD</a> － <a href="https://twitter.com/preetsuthar17">Twitter</a> － <a href="https://linkedin.com/in/preetsuthar17">LinkedIn</a>
+<a href="https://preetsuthar.me">website</a> － <a href="https://twitter.com/preetsuthar17">Twitter</a> － <a href="https://linkedin.com/in/preetsuthar17">LinkedIn</a>
 </p>
