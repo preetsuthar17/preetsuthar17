@@ -12,6 +12,7 @@ I'm very passionate about Front-End web development and I can help you to build 
 </picture>
   
 [![wakatime](https://wakatime.com/badge/user/b5b67ae1-6061-466d-982e-e7b9ec9d9369.svg)](https://wakatime.com/@b5b67ae1-6061-466d-982e-e7b9ec9d9369)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=preetsuthar17.preetsuthar17)
 
 <p align="center">
 <a href="https://preetsuthar.me">Website</a> － <a href="https://twitter.com/preetsuthar17">Twitter</a> － <a href="https://linkedin.com/in/preetsuthar17">LinkedIn</a>
