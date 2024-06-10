@@ -1,4 +1,4 @@
-[![GitHub Cover Poster](./github-cover.png)](https://preetsuthar.me)
+[![GitHub image](./github-cover.png)](https://preetsuthar.me)
 
 ## 
 
