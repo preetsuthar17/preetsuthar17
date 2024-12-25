@@ -1,8 +1,4 @@
-[![GitHub image](./github-cover.png)](https://preetsuthar.me)
-
-## 
-
-Hi, I'm Preet Suthar, a full-time SaaS creator. I've started more than 10 businesses, focusing on easy-to-use and secure tech solutions.
+Hi, I'm Preet Suthar, a full-time SaaS creator. I've started over 10 businesses, focusing on easy-to-use and secure tech solutions.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake-dark.svg">
