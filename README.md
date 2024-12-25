@@ -2,8 +2,7 @@
 
 ## 
 
-I'm a 18 y/o self-taught web developer with more than two years of experience. 
-I'm very passionate about Front-End web development and I can help you to build most websites with the most appealing design.
+Hi, I'm Preet Suthar, a full-time SaaS creator. I've started more than 10 businesses, focusing on easy-to-use and secure tech solutions.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake-dark.svg">
@@ -15,5 +14,5 @@ I'm very passionate about Front-End web development and I can help you to build 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=preetsuthar17.preetsuthar17)
 
 <p align="center">
-<a href="https://preetsuthar.me">Website</a> － <a href="https://twitter.com/preetsuthar17">Twitter</a> － <a href="https://linkedin.com/in/preetsuthar17">LinkedIn</a>
+<a href="https://preetsuthar.me">Website</a> － <a href="https://twitter.com/nott_preett">Twitter</a> － <a href="https://youtube.com/@preetsuthar17">YouTube</a>
 </p>
