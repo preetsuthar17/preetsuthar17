@@ -10,5 +10,5 @@ Hi, I'm Preet Suthar, a full-time SaaS creator. I've started over 10 businesses,
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=preetsuthar17.preetsuthar17)
 
 <p align="center">
-<a href="https://preetsuthar.me">Website</a> － <a href="https://twitter.com/nott_preett">Twitter</a> － <a href="https://youtube.com/@preetsuthar17">YouTube</a>
+<a href="https://preetsuthar.me">Website</a> － <a href="https://twitter.com/preetsuthar17">Twitter</a> － <a href="https://youtube.com/@preetsuthar17">YouTube</a>
 </p>
