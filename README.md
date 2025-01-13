@@ -1,7 +1,5 @@
 A freelance web developer and Indie Hacker. I specialize in creating fast, responsive, and interactive websites, as well as web applications, e-commerce platforms, and landing pages.
 
-As an Indie Hacker, I've successfully launched over 10 startups (SaaS) in the past 5 years, each designed to deliver secure, easy-to-use tech solutions.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake.svg">
